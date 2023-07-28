@@ -34,6 +34,7 @@ body {
   flex: 1;
   margin-right: 16px;
   font-size: 18px;
+  width: 80%;
 }
 .search button {
   border: 0;
